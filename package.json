@@ -1,0 +1,32 @@
+{
+  "name": "in-browser-prototype-for-designers",
+  "version": "1.0.0",
+  "description": "UXPA Conference 2016 Presentation",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "autoprefixer": "^6.3.6",
+    "gulp": "^3.9.1",
+    "gulp-postcss": "^6.1.0",
+    "gulp-sass": "^2.2.0",
+    "gulp-sourcemaps": "^1.6.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shanfan/in-browser-prototype-for-designers.git"
+  },
+  "keywords": [
+    "designer",
+    "prototyping",
+    "tools"
+  ],
+  "author": "Shanfan Huang <shanfan.huang@gmail.com> (http://shanfanhuang.com)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shanfan/in-browser-prototype-for-designers/issues"
+  },
+  "homepage": "https://github.com/Shanfan/in-browser-prototype-for-designers#readme"
+}

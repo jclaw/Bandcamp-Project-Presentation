@@ -1,0 +1,46 @@
+svg#tools-rosechart{
+  margin-top: 10vh;
+  max-height: 75vh;
+}
+
+.cls-1{
+  fill: $yellow;
+}
+.cls-2{
+  fill: $blue;
+}
+.cls-3 {
+  fill: $red;
+}
+.cls-4 {
+  fill: $purple;
+}
+#lables {
+  font-size:24px;
+  fill: #333;
+  font-family:Roboto;
+}
+#axises {
+  fill: none;
+  stroke: $gray-1;
+  stroke-miterlimit: 10;
+  stroke-width:2px;
+}
+
+#graph-base {
+  opacity: 1;
+}
+
+#graph-flash,
+#graph-photoshop,
+#graph-illustrator,
+#graph-premiere,
+#graph-omnigraffle,
+#graph-axure,
+#graph-sketch,
+#graph-invision,
+#graph-css3,
+#graph-html5,
+#graph-javascript {
+  opacity: 0;
+}
