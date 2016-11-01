@@ -26,4 +26,4 @@ gulp
 
 ----
 ### Acknowledgement
-Slideshow format taken from https://github.com/Shanfan/in-browser-prototyping-for-designers
+Slideshow format adapted from https://github.com/Shanfan/in-browser-prototyping-for-designers
