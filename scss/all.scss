@@ -70,11 +70,26 @@ a {
     color: white;
     border-radius: 8px;
     background: $blue;
-    font-size: 2.5em;
+    font-size: 1.6em;
 }
 
 .button:hover {
     color: white;
+}
+
+pre.wrap {
+    overflow: initial;
+    code {
+        white-space: pre-wrap;
+        white-space: -moz-pre-wrap;
+        white-space: -pre-wrap;
+        white-space: -o-pre-wrap;
+        word-wrap: break-word;
+    }
+}
+
+pre.small {
+    font-size: .7em;
 }
 
 table {
